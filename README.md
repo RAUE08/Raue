@@ -1,11 +1,11 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Raue Araujo</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RAUE08&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Student Front-End and Web Development
+- 🔥 Front-End and Web Development
 
 - 🌱 I’m currently studying Systems Analysis and Development at the University of Marília - UNIMAR
 
-- 💬 Ask me about: **JavaScript, HTML, CSS, Git, GitHub**
+- 💬 Ask me about: *HTML, CSS, JavaScript, Git and GitHub**
 
 - ⚡ Fun fact: I really like **Movies, Series, Games and Animes**
 
